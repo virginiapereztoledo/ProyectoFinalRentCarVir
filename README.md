@@ -1,7 +1,44 @@
+
 # 🚗 Rent Car Vir
 
 ¡Bienvenido/a a **Rent Car Vir**!  
 Este es mi proyecto final, una aplicación pensada para facilitar el alquiler de autos de manera rápida, intuitiva y eficiente.
+
+## 📥 Pasos para descargar e instalar el proyecto
+
+Sigue estos pasos para descargar y configurar el proyecto en tu máquina local:
+
+1. **Clona o descarga el repositorio**:
+   - Si usas Git:  
+     ```bash
+     git clone https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir.git
+     ```
+   - Si prefieres descargarlo como un archivo comprimido, puedes hacerlo desde la opción "Code" en el repositorio de GitHub.
+
+2. **Instala las dependencias del proyecto**:  
+   Abre una terminal en la carpeta del proyecto y ejecuta el siguiente comando para instalar las dependencias usando Composer:
+   ```bash
+   composer install
+
+3. **Renombra el archivo .env.example:**:
+     ```bash
+     mv .env.example .env
+     ```
+
+4. **Configura el archivo .env:**:
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=nueva
+DB_USERNAME=root
+DB_PASSWORD=
+
+5. **Ejecuta la aplicación::**:
+   ```bash
+    php artisan serve
+     ```
+
 
 ## 📽️ Demo del Proyecto
 
