@@ -37,7 +37,18 @@ DB_DATABASE=nuevas
 DB_USERNAME=root
 DB_PASSWORD=
 
-6. **Ejecuta la aplicación::**:
+7.
+
+  ```bash
+    php artisan key:generate
+     ```
+
+ ```bash
+    php artisan storage:link
+     ```
+  
+
+8. **Ejecuta la aplicación::**:
    ```bash
     php artisan serve
      ```
