@@ -24,8 +24,11 @@ Sigue estos pasos para descargar y configurar el proyecto en tu máquina local:
      ```bash
      mv .env.example .env
      ```
+4. - **Enlace para descargar la base de datos**: 
+   ```markdown
+   🔗 [Descargar base de datos](https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir/raw/main/ruta/al/archivo/base_de_datos.sql)
 
-4. **Configura el archivo .env:**:
+6. **Configura el archivo .env:**:
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -34,7 +37,7 @@ DB_DATABASE=nueva
 DB_USERNAME=root
 DB_PASSWORD=
 
-5. **Ejecuta la aplicación::**:
+6. **Ejecuta la aplicación::**:
    ```bash
     php artisan serve
      ```
