@@ -28,7 +28,7 @@ Sigue estos pasos para descargar y configurar el proyecto en tu máquina local:
    ```markdown
    🔗 [Descargar base de datos](https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir/blob/master/Base%20de%20Datos/nuevas.sql)
 
-6. **Configura el archivo .env:**:
+5. **Configura el archivo .env:**:
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -37,7 +37,7 @@ DB_DATABASE=nuevas
 DB_USERNAME=root
 DB_PASSWORD=
 
-7.
+6.
 
   ```bash
     php artisan key:generate
@@ -46,10 +46,14 @@ DB_PASSWORD=
  ```bash
     php artisan storage:link
      ```
+```bash
+    composer require laravel/sanctum
+     ```
   
 
-8. **Ejecuta la aplicación::**:
-   ```bash
+7. **Ejecuta la aplicación::**:
+
+```bash
     php artisan serve
      ```
 
