@@ -37,21 +37,24 @@ DB_DATABASE=nuevas
 DB_USERNAME=root
 DB_PASSWORD=
 
-6.
+6. **Siguientes pasos:**:
 
   ```bash
     php artisan key:generate
      ```
 
+7. **Siguientes pasos:**:
+
  ```bash
     php artisan storage:link
      ```
+8. **Siguientes pasos:**:
+
 ```bash
     composer require laravel/sanctum
      ```
   
-
-7. **Ejecuta la aplicación::**:
+9. **Ejecuta la aplicación::**:
 
 ```bash
     php artisan serve
