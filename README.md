@@ -33,7 +33,7 @@ Sigue estos pasos para descargar y configurar el proyecto en tu máquina local:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=nueva
+DB_DATABASE=nuevas
 DB_USERNAME=root
 DB_PASSWORD=
 
@@ -53,7 +53,7 @@ Puedes ver un recorrido en video del funcionamiento de la aplicación en el sigu
 
 También puedes descargar el documento en PDF con más detalles sobre el proyecto en el siguiente enlace:
 
-🔗 [Ver PDF del proyecto]([Pdf Documentacion](https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir/blob/master/Documentacion/ProyectoIntegrado.pdf).
+🔗 [Ver PDF del proyecto]([Pdf Documentacion]).(https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir/blob/master/Documentacion/ProyectoIntegrado.pdf).
 
 ## 🔑 Accesos para usuarios
 
