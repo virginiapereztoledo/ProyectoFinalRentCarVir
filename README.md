@@ -39,26 +39,26 @@ DB_PASSWORD=
 
 6. **Siguientes pasos:**:
 
-  ```bash
+     ```bash
     php artisan key:generate
      ```
 
 7. **Siguientes pasos:**:
 
- ```bash
+    ```bash
     php artisan storage:link
      ```
 8. **Siguientes pasos:**:
 
-```bash
+    ```bash
     composer require laravel/sanctum
      ```
   
 9. **Ejecuta la aplicación::**:
 
-```bash
+   ```bash
     php artisan serve
-     ```
+    ```
 
 
 ## 📽️ Demo del Proyecto
