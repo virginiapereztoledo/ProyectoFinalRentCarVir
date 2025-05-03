@@ -13,7 +13,7 @@ Puedes ver un recorrido en video del funcionamiento de la aplicación en el sigu
 
 También puedes descargar el documento en PDF con más detalles sobre el proyecto en el siguiente enlace:
 
-🔗 [Ver PDF del proyecto]([ENLACE_DEL_PDF_EN_GITHUB](https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir/blob/master/Documentacion/ProyectoIntegrado.pdf).
+🔗 [Ver PDF del proyecto]([Pdf Documentacion](https://github.com/virginiapereztoledo/ProyectoFinalRentCarVir/blob/master/Documentacion/ProyectoIntegrado.pdf).
 
 ## 🔑 Accesos para usuarios
 
