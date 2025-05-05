@@ -2,7 +2,7 @@
 # 🚗 Rent Car Vir
 
 ¡Bienvenido/a a **Rent Car Vir**!  
-Este es mi proyecto final, una aplicación pensada para facilitar el alquiler de autos de manera rápida, intuitiva y eficiente.
+Este es mi proyecto final, una aplicación pensada para facilitar el alquiler de Coches de manera rápida, intuitiva y eficiente.
 
 ## 📥 Pasos para descargar e instalar el proyecto
 
