@@ -36,8 +36,12 @@
                                 <td>
                                     <img class="img-thumbnail" width="50" height="50" src="{{ asset($empleado->foto) }}" alt="Foto del empleado">
                                 </td>
+<<<<<<< HEAD
                                 <td>{{ $empleado->usuario?->username ?? 'Sin usuario' }}</td>
 
+=======
+                                <td>{{ $empleado->usuario->username }}</td>
+>>>>>>> d158cc9ab74152c3b9d486272152d953da8c375e
                                 <td>{{ $empleado->nombre }}</td>
                                 <td>{{ $empleado->apellidos }}</td>
                                 <td class="action">
