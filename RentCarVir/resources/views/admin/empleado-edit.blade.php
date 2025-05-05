@@ -42,23 +42,23 @@
                             @include("components.image-item", ["size" => "100px", "path" => $empleado->foto, "id" => "foto"])
                         </div>
                         <div class="form-group mb-3">
-                            <label for="username">Username:</label>
+                            <label for="username"class="text-white">Username:</label>
                             <input type="text" id="username" name="username" class="form-control" value="{{ $empleado->usuario->username }}">
                         </div>
                         <div class="form-group mb-3">
-                            <label for="nombre">Nome:</label>
+                            <label for="nombre"class="text-white">Nombre:</label>
                             <input type="text" id="nombre" name="nombre" class="form-control" value="{{ $empleado->nombre }}">
                         </div>
                         <div class="form-group mb-3">
-                            <label for="apellidos">Apellidos:</label>
+                            <label for="apellidos"class="text-white">Apellidos:</label>
                             <input type="text" id="apellidos" name="apellidos" class="form-control" value="{{ $empleado->apellidos }}">
                         </div>
                         <div class="form-group mb-3">
-                            <label for="password">Password: (Opcional)</label>
+                            <label for="password"class="text-white">Password: (Opcional)</label>
                             <input type="password" id="password" name="password" class="form-control">
                         </div>
                         <div class="form-group mb-3">
-                            <label for="password_confirmation">Confirmar password: (Opcional)</label>
+                            <label for="password_confirmation"class="text-white">Confirmar password: (Opcional)</label>
                             <input type="password" id="password_confirmation" name="password_confirmation" class="form-control">
                         </div>
                     </div>
